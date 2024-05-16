@@ -405,6 +405,7 @@ button {
     no-repeat center;
   background-size: cover;
   z-index: 284;
+  border-bottom: 1px solid #abb2bf;
 }
 .frame-12 {
   align-self: stretch;
@@ -413,7 +414,7 @@ button {
   min-width: 0;
   height: 153px;
   font-size: 0px;
-  border-bottom: 1px solid #abb2bf;
+  
   z-index: 285;
 }
 .street-view {
@@ -495,6 +496,7 @@ button {
 .image-16 {
   position: relative;
   width: 330px;
+  border-bottom: 1px solid #abb2bf;
   height: 201px;
   margin: 0 0 0 0;
   background: url(./assets/images/4cae104e2c9c64da7aae03620227b2beb31d370f.png)
@@ -512,7 +514,7 @@ button {
   width: 330.579px;
   margin: 1px 0 0 -1px;
   padding: 16px 16px 16px 16px;
-  border-bottom: 1px solid #abb2bf;
+  /* border-bottom: 1px solid #abb2bf; */
   z-index: 358;
 }
 .go-style {
@@ -620,7 +622,7 @@ button {
   position: relative;
   min-width: 0;
   padding: 16px 16px 16px 16px;
-  border-bottom: 1px solid #abb2bf;
+  /* border-bottom: 1px solid #abb2bf; */
   z-index: 295;
 }
 .wally-app {
