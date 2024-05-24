@@ -606,6 +606,7 @@ button {
   position: relative;
   width: 330px;
   height: 201px;
+  border-bottom: 1px solid #abb2bf; 
   background: url(./assets/images/e06f9401ffd7913d602b831d8b4c35ae8f85d607.png)
     no-repeat center;
   background-size: cover;
@@ -3846,13 +3847,13 @@ button {
 .rayees-khan {
   display: block;
   position: relative;
-  height: 21px;
+  /* height: 21px; */
   margin: 14px 0 0 50px;
   color: #ffffff;
   font-family: Fira Code, var(--default-font-family);
   font-size: 16px;
   font-weight: 700;
-  line-height: 20.992px;
+  /* line-height: 20.992px; */
   text-align: left;
   white-space: nowrap;
   z-index: 409;
@@ -3862,7 +3863,7 @@ button {
   flex-direction: column;
   align-items: center;
   flex-wrap: nowrap;
-  gap: 48px;
+  /* gap: 48px; */
   position: absolute;
   width: 1025px;
   height: 189px;
@@ -4520,7 +4521,7 @@ button {
   white-space: nowrap;
   z-index: 312;
 }
-.frame-13d {
+.frame-13d{
   display: flex;
   align-items: flex-end;
   justify-content: space-between;
@@ -4533,6 +4534,7 @@ button {
   padding: 32px 0 8px 0;
   background: #282c33;
   z-index: 365;
+  
 }
 .frame-13d a{
   text-decoration: none;
@@ -4547,6 +4549,7 @@ button {
   gap: 32px;
   position: relative;
   width: 443px;
+  margin-left: 35px;
   z-index: 366;
 }
 .home-13e {
@@ -4557,14 +4560,7 @@ button {
   position: relative;
   width: 49px;
   z-index: 367;
- 
 }
-.header-link , 
-.header-link-140 a{
-  cursor: pointer;
-
-}
-
 .header-link-140 {
   flex-shrink: 0;
   flex-basis: auto;
@@ -4577,7 +4573,7 @@ button {
   line-height: 20.992px;
   text-align: left;
   white-space: nowrap;
-  z-index: 369;
+  z-index: 369;  
 }
 .group-2a {
   display: flex;
@@ -4588,7 +4584,6 @@ button {
   width: 58px;
   z-index: 370;
 }
-
 .text-39 {
   flex-shrink: 0;
   flex-basis: auto;
@@ -4635,7 +4630,6 @@ button {
   width: 87px;
   z-index: 376;
 }
-
 .contacts-144 {
   flex-shrink: 0;
   flex-basis: auto;
@@ -4650,7 +4644,6 @@ button {
   white-space: nowrap;
   z-index: 378;
 }
-
 .line-147 {
   position: relative;
   width: 6.414px;
@@ -4661,7 +4654,6 @@ button {
   background-size: cover;
   z-index: 382;
 }
-
 /*  ------------------------------------------------------------ */
 
 
